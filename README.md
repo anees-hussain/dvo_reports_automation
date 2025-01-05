@@ -31,6 +31,8 @@ The app includes the following modules:
 - Sales Analytics
 - Daily Sales Summary
 - Average SKU per Invoice
+- Average Drop Size SKUs
+- Penetration Report both Numeric & Percentage
 
 ## Testing
 Use a sample `input_file.xlsx` with the required format for testing.
